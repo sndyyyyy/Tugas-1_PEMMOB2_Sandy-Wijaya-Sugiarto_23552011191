@@ -1,6 +1,6 @@
 # Tugas Pertama
 
-A new Flutter project.
+Source Code in folder lib/second.dart
 
 ## Getting Started
 
